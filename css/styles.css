@@ -1,0 +1,175 @@
+body {
+  background-color: #fff;
+}
+
+p {
+  text-indent: 1%;
+}
+
+.header-name {
+  font-style: Montserrat;
+  font-weight: 900;
+  color: #f0f0f0;
+  font-size: 30px;
+}
+
+.header-occupation {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: #f0f0f0;
+  font-size: 20px;
+}
+
+.section-headers {
+  font-style: Montserrat;
+  font-weight: 900;
+  color: #618685;
+  font-size: 22px;
+  padding-top: 10px;
+}
+
+.photo {
+  padding: 10px;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+.carolyn-pic {
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  border-radius: 100%;
+}
+
+.summary {
+  background: #618685;
+  text-align: left;
+  padding: 20px;
+}
+
+.header-summary {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: #e6e2d3;
+  font-size: 18px;
+  line-height: 2rem;
+}
+
+.header-hr {
+  background-color: #fff;
+  border: none;
+  height: 1px;
+}
+
+.contact-info-technical {
+  background-color: #e6e2d3;
+}
+
+.contact-info {
+  line-height: 1px;
+}
+
+.technical-skills {
+  background-color: #e6e2d3;
+}
+
+.fa {
+  color: #618685;
+}
+
+.icon {
+  font-style: Montserrat;
+  font-weight: 100;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.contact-details {
+  font-style: Montserrat;
+  font-weight: 100;
+  padding-left: 10px;
+}
+
+.phone {
+  font-style: Montserrat;
+  font-weight: 100;
+  padding-left: 10px;
+}
+
+.location {
+  font-style: Montserrat;
+  font-weight: 100;
+  padding-left: 10px;
+}
+
+.linkedin {
+  font-style: Montserrat;
+  font-weight: 100;
+  padding-left: 10px;
+}
+.work-experience {
+  background-color: #fff;
+}
+
+.role {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: #618685;
+  font-size: 20px;
+}
+
+.company {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: black;
+  font-size: 20px;
+}
+
+.SocGenLogo{
+  width: 20%;
+  padding-right: 15px;
+}
+
+.CSLogo {
+  width: 15%;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.time-range {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: black;
+  font-size: 15px;
+}
+
+.work-bullets {
+  font-style: Montserrat;
+  font-weight: 100;
+  color: black;
+  font-size: 15px;
+}
+
+.education {
+  line-height: 10px;
+}
+
+.degree {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: black;
+  font-size: 15px;
+}
+
+.college {
+  font-style: Montserrat;
+  font-weight: 400;
+  color: black;
+  font-size: 15px;
+}
+
+meter::-webkit-meter-optimum-value {
+  background: #618685; /* Required to get rid of the default background property */
+  background-color: #618685;
+  box-shadow: 0 5px 5px -5px #333 inset;
+}
