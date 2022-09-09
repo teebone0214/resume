@@ -41,6 +41,12 @@ p {
   border-radius: 100%;
 }
 
+@media screen and (max-width: 600px) {
+  .carolyn-pic {
+    width: 200px;
+  }
+}
+
 .summary {
   background: #618685;
   text-align: left;
